@@ -1,10 +1,10 @@
-#Markdown test
+# Markdown test
 
-###I am currently testing H3
+### I am currently testing H3
 
 Say I wanted to write something normal, but then put emphasis on the **banality** of the content I am writing, I think I would tend to use *italics* instead of bold.
 
-###Making lists of shit also seams easy enough
+### Making lists of shit also seams easy enough
 
 *I just write the item
 *A second Item
@@ -23,7 +23,7 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
-###This makes inline code
+### This makes inline code
 
 I think you should use an
 `<addr>` element here instead.
@@ -32,7 +32,7 @@ I think you should use an
 
 ##### Mhmmm, tastes like js
 
-'''javascript
+''' javascript
 	function promiseMeThisWorks(prayer) {
 		if(prayer.valid()) {
 			return new Promise(function(resolve, reject) {
@@ -47,7 +47,7 @@ I think you should use an
 }
 '''
 
-###task lists
+### task lists
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
@@ -55,9 +55,9 @@ I think you should use an
 - [ ] this is an incomplete item
 
 
-###Tables also exist, but are less fun
+### Tables also exist, but are less fun
 
-###but emojis tho
+### but emojis tho
 
 :disappointed:
 :disappointed:
