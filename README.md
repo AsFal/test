@@ -32,7 +32,7 @@ I think you should use an
 
 ##### Mhmmm, tastes like js
 
-''' javascript
+```javascript
 	function promiseMeThisWorks(prayer) {
 		if(prayer.valid()) {
 			return new Promise(function(resolve, reject) {
@@ -45,7 +45,16 @@ I think you should use an
 		}
 	}
 }
-'''
+```
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+``` 
+
 
 ### task lists
 
