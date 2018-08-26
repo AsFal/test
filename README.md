@@ -6,10 +6,10 @@ Say I wanted to write something normal, but then put emphasis on the **banality*
 
 ### Making lists of shit also seams easy enough
 
-*I just write the item
-*A second Item
-	*And then nest
-	*Another list
+-I just write the item
+-A second Item
+	-And then nest
+	-Another list
 
 1. Item 1
 1. Item 2
